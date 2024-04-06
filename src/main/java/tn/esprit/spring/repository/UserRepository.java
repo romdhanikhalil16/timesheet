@@ -10,6 +10,7 @@ import tn.esprit.spring.entities.User;
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
     // modification
+    // second comment
 
 }
 
